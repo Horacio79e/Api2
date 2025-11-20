@@ -1,0 +1,15 @@
+{
+    "OrderID": 667788,
+    "Adress": "Chacabuco 123",
+    "Status": "Ready",
+    "Articles": [
+        {"Name": "Martillo",
+        "Price": 3000,
+        "Quantity": 1,
+        "Dangerous": false
+
+
+        }
+        
+    ] 
+}
